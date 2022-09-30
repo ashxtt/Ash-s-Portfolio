@@ -5,7 +5,7 @@
 |  Day | Deliverable | Status
 |---|---| ---|
 |Day 1| Project Description | complete
-|Day 2| Wireframes / Priority Matrix / Timeline | Incomplete
+|Day 2| Wireframes / Priority Matrix / Timeline | complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
@@ -21,12 +21,10 @@
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
 | Patty Menu | H | 1hr | hr |
-| parallex scrolling | H | 3hr | hr |
 | Nav bar | H | 1hr | hr |  
 | Adding submit Form | H | 1.5hr|  hr | 
 | Other sections and flex/grid| M | 3hr | hr|
 | Responsive | H | 3hr | hr | hr |
-| Mail Icon | L | 1hr |  hr |
 | Total | H | 15.5hrs| hrs |
 
 #### PostMVP
