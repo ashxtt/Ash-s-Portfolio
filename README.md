@@ -22,10 +22,10 @@
 | --- | :---: |  :---: | :---: | 
 | Patty Menu | H | 1hr | hr |
 | Nav bar | H | 1hr | hr |  
-| Adding submit Form | H | 1.5hr|  hr | 
+| Adding submit Form | H | 2hr|  hr | 
 | Other sections and flex/grid| M | 3hr | hr|
 | Responsive | H | 3hr | hr | hr |
-| Total | H | 15.5hrs| hrs |
+| Total | H | 16hrs| hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
