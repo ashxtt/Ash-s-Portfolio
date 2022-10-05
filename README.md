@@ -6,7 +6,7 @@
 |---|---| ---|
 |Day 1| Project Description | complete
 |Day 2| Wireframes / Priority Matrix / Timeline | complete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | complete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
@@ -20,18 +20,17 @@
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Patty Menu | H | 1hr | hr |
-| Nav bar | H | 1hr | hr |  
-| Adding submit Form | H | 2hr|  hr | 
-| Other sections and flex/grid| M | 3hr | hr|
-| Responsive | H | 3hr | hr | hr |
+| contact button| H | 1hr | 2hr |
+| Nav bar | H | 1hr | 1hr |  
+| Adding submit Form | H | 2hr|  1.5hr | 
+| Other sections and flex/grid| 1hr | 3hr | 3hr|
+| Responsive | H | 3hr | 4hr | 3.5hr |
 | Total | H | 16hrs| hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Header menu bar | h | 1hr| 1.5hr |
-| Contact button | 1hr | 1hr | 2hr |
+
 
 ## Additional Libraries Used
 
