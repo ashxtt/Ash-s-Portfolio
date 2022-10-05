@@ -30,6 +30,8 @@
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
+| Header menu bar | h | 1hr| 1.5hr |
+| Contact button | 1hr | 1hr | 2hr |
 
 ## Additional Libraries Used
 
