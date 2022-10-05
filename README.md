@@ -20,12 +20,12 @@
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| contact button| H | 1hr | 2hr |
-| Nav bar | H | 1hr | 1hr |  
-| Adding submit Form | H | 2hr|  1.5hr | 
-| Other sections and flex/grid| 1hr | 3hr | 3hr|
-| Responsive | H | 3hr | 4hr | 3.5hr |
-| Total | H | 16hrs| hrs |
+| contact button| 1hr | 1hr | 2hr |
+| Nav bar | 1hr | 1hr | 1hr |  
+| Adding submit Form | 1hr | 2hr|  1.5hr | 
+| flex/grid | 1hr | 3hr | 2hr|
+| Responsive| 3hr | 4hr | 3.5hr |
+| Total | H | 9hrs| 8.5hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
