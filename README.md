@@ -8,8 +8,8 @@
 |Day 2| Wireframes / Priority Matrix / Timeline | complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | complete
 |Day 4| MVP & Bug Fixes | complete
-|Day 5| Final Touches | Incomplete
-|Day 6| Present | Incomplete
+|Day 5| Final Touches | complete
+|Day 6| Present | complete
 
 ## Wireframes
 
@@ -30,6 +30,8 @@
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
+| Social Icons | Hr | 2Hr | 3Hr |
+| button Hover | 1Hr | 1.5Hr | 2Hr |
 
 
 ## Additional Libraries Used
@@ -39,7 +41,7 @@
 ## Code Snippet
 
  
-
+### scrollActive function use so when clicking on the nav links will take you to that part of the page
 ```
 const sections = document.querySelectorAll('section[id]')
 
@@ -61,5 +63,5 @@ function scrollActive(){
 ```
 
 ## Issues and Resolutions
-
+### Had trouble linking my github and linkdeln to social Icons with resolve soon
  
