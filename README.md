@@ -34,7 +34,13 @@
 | button Hover | 1Hr | 1.5Hr | 2Hr |
 
 
-## Additional Libraries Used
+## Images used
+### I got the bat gif off of pinterest.
+### here is the pinterest post where the gif was found: https://www.pinterest.com/pin/649222102539512030/
+### This is their tumbler to their artwork: http://pixosprout.tumblr.com/
+#### Credit for girl gif:https://www.pinterest.com/pin/756886281144124408/
+#### Credit for grave gif:https://www.pinterest.com/pin/90846117468817480/ Their Tumblr:http://fuckyeah-pixels.tumblr.com/post/166229238848
+#### Credit for ghost gif:https://www.pinterest.com/pin/357825132909187479/
 
  
 
