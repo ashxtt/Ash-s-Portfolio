@@ -105,5 +105,6 @@ sr.reveal('.home-data, .about-cont, .pro-cont, .contact-cont', {interval:300, de
 
 ## Issues and Resolutions
 ### One of the issues I had as I was making my portfolia is, I wasn't able to get the page to scroll to each section as I click on the menu bar. I have not resolved that propblem yet. I have learned how to use scroll reveal. I am able to have the contents on the page drop in from different dirrections.
-### A problem I just noticed is when commiting my code to github.io , my website doesn't do the scroll reveal animations. (note to fix soon).
+### A problem I just noticed is when commiting my code to github.io , my website doesn't do the scroll reveal animations. (note to fix soon). 
+## Update: I have fixed the issue with the scroll reveal, it should be working when clicking into the website.
  
