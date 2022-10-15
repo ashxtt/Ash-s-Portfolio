@@ -1,4 +1,6 @@
 # Ash's-Portfolio
+### Portfolia Idea
+#### I have decied to go on the spooky route becasue its october. I have incorporated some gifs that goes with the theme of my website, I have also created the creators of these gifs and linked their pinterest and tumblr, where you can check them out and give them a like. 
 
 ## Project Schedule
 
@@ -46,8 +48,32 @@
 
 ## Code Snippet
 
- 
-### scrollActive function use so when clicking on the nav links will take you to that part of the page
+#### Another code snippet is from my CSS. I am proud of myself for making the button look so nice
+
+```
+.btn{
+    display: flex;
+    justify-content: center;
+    padding:0.40rem;
+   }
+   .send-btn{
+    background-color: #C5C4C3;
+    color: #570000;
+    padding:0.40rem;
+    border: 0.15rem solid black;
+    border-radius: 2rem;
+    box-shadow: 2px 1px #181717;
+    transition: 0.4s;
+   }
+   .send-btn:hover{
+    font-size: 30px;
+    border: 0.15rem solid black;
+    border-radius: 12px 12px 12px 12px;
+    box-shadow: 3px 2px #181717;
+   }
+   ```
+   ### When loading into or realoading the page the contents on the page will drop in.
+   
 ```
 const sections = document.querySelectorAll('section[id]')
 
@@ -60,14 +86,23 @@ function scrollActive(){
         sectionId = current.getAttribute('id')
 
         if(scrollY > sectionTop && scrollY <= sectionTop + sectionHeight){
-            document.querySelector('.nav__menu a[href*=' + sectionId + ']').classList.add('active')
+            document.querySelector('.navi-menu a[href*=' + sectionId + ']').classList.add('active')
         }else{
-            document.querySelector('.nav__menu a[href*=' + sectionId + ']').classList.remove('active')
+            document.querySelector('.navi-menu a[href*=' + sectionId + ']').classList.remove('active')
         }
     })
 }
+
+window.addEventListener('scroll', scrollActive)
+
+
+
+window.sr = ScrollReveal({ reset: true });
+
+
+sr.reveal('.home-data, .about-cont, .pro-cont, .contact-cont', {interval:300, delay: 400});
 ```
 
 ## Issues and Resolutions
-### Had trouble linking my github and linkdeln to social Icons with resolve soon
+### One of the issues I had as I was making my portfolia is, I wasn't able to get the page to scroll to each section as I click on the menu bar. I have not resolved that propblem yet. I have learned how to use scroll reveal. I am able to have the contents on the page drop in from different dirrections.
  
